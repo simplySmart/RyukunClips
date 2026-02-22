@@ -168,7 +168,7 @@ export default function App() {
               className={`whitespace-nowrap px-6 py-3 rounded-full text-sm font-bold transition-all flex items-center gap-2 ${
                 activeCategory === category 
                   ? `${t.dark} ${t.darkText} shadow-lg` 
-                  : `${t.card} ${t.textMuted} shadow-sm opacity-80 hover:opacity-100`
+                  : `${t.card} ${t.textMain} border border-gray-300 shadow-sm opacity-100 hover:opacity-80`
               }`}
             >
               {category}
@@ -186,9 +186,9 @@ export default function App() {
                 className={`whitespace-nowrap px-4 py-2 rounded-full text-xs font-bold transition-all ${
                   activeEpisode === ep 
                     ? `${t.accent} ${t.accentText} shadow-sm` 
-                    : `${t.dark} opacity-10 ${t.darkText} hover:opacity-20`
-                }`}
-                style={activeEpisode !== ep ? { backgroundColor: 'transparent', border: '1px solid currentColor', opacity: 0.6 } : {}}
+                        : `${t.dark} opacity-60 ${t.darkText} hover:opacity-100`
+}`}
+style={activeEpisode !== ep ? { backgroundColor: 'transparent', border: '2px solid currentColor' } : {}}
               >
                 {ep === "All" ? "All Episodes" : `EP ${ep}`}
               </button>

@@ -1,0 +1,54 @@
+{
+  "profile": {
+    "name": "RYUKUN",
+    "aboutImageLink": "[https://images.unsplash.com/photo-1618336753974-aae8e04506aa?q=80&w=400&auto=format&fit=crop](https://images.unsplash.com/photo-1618336753974-aae8e04506aa?q=80&w=400&auto=format&fit=crop)",
+    "description": "Providing the highest quality, smooth, and raw Twixtor clips for the editing community. Free to use, just credit!",
+    "socials": [
+      { "platform": "youtube", "title": "Main Channel", "desc": "AMVs & Edits", "link": "[https://youtube.com](https://youtube.com)", "color": "text-red-500" },
+      { "platform": "youtube", "title": "Tutorial Channel", "desc": "Learn how I edit", "link": "[https://youtube.com](https://youtube.com)", "color": "text-red-500" },
+      { "platform": "telegram", "title": "Telegram Community", "desc": "Join for exclusive drops", "link": "[https://t.me](https://t.me)", "color": "text-blue-500" },
+      { "platform": "instagram", "title": "Instagram", "desc": "@ryukun.anime", "link": "[https://instagram.com](https://instagram.com)", "color": "text-pink-600" }
+    ]
+  },
+  "clips": [
+    {
+      "id": "clip_001",
+      "anime": "Jujutsu Kaisen",
+      "character": "Satoru Gojo",
+      "season": "2",
+      "episode": "4",
+      "res": "4K",
+      "type": "Raw clips",
+      "driveLink": "[https://drive.google.com](https://drive.google.com)",
+      "youtubeId": "dQw4w9WgXcQ", 
+      "thumbnail": "[https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=800&auto=format&fit=crop](https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=800&auto=format&fit=crop)",
+      "tags": ["Raw", "Smooth"]
+    },
+    {
+      "id": "clip_002",
+      "anime": "Jujutsu Kaisen",
+      "character": "Ryomen Sukuna",
+      "season": "2",
+      "episode": "17",
+      "res": "1080P",
+      "type": "Raw clips",
+      "driveLink": "[https://drive.google.com](https://drive.google.com)",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "[https://images.unsplash.com/photo-1618336753974-aae8e04506aa?q=80&w=800&auto=format&fit=crop](https://images.unsplash.com/photo-1618336753974-aae8e04506aa?q=80&w=800&auto=format&fit=crop)",
+      "tags": ["Popular"]
+    },
+    {
+      "id": "clip_003",
+      "anime": "Demon Slayer",
+      "character": "Tengen Uzui",
+      "season": "2",
+      "episode": "10",
+      "res": "4K",
+      "type": "Raw clips",
+      "driveLink": "[https://drive.google.com](https://drive.google.com)",
+      "youtubeId": "", 
+      "thumbnail": "[https://images.unsplash.com/photo-1555680202-c86f0e12f086?q=80&w=800&auto=format&fit=crop](https://images.unsplash.com/photo-1555680202-c86f0e12f086?q=80&w=800&auto=format&fit=crop)",
+      "tags": ["4K", "Clean"]
+    }
+  ]
+}
